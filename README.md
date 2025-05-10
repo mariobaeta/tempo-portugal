@@ -1,10 +1,10 @@
 # 🌤️ Tempo Portugal - Previsão Meteorológica
-
-[![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://tempo-portugal.streamlit.app)
+[![Live Demo](https://img.shields.io/badge/ACESSE_O_APP-0A1A2F?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=0A1A2F&color=2D5F7D&link=https://tempo-portugal.streamlit.app)](https://tempo-portugal.streamlit.app)
 
 Aplicação web para visualização da previsão do tempo em cidades portuguesas, com dados atualizados da API WeatherAPI.
 
-![Captura de Tela](./screenshot.png)  
+![Captura de Tela](./screenshot.png) *(adicione uma imagem do seu app em funcionamento)*
+
 ## ✨ Funcionalidades
 
 - Previsão atual detalhada (temperatura, humidade, vento)
