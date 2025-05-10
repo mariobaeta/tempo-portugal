@@ -4,7 +4,7 @@
 
 Aplicação web para visualização da previsão do tempo em cidades portuguesas, com dados atualizados da API WeatherAPI.
 
-![Captura de Tela](./screenshot.png) 
+![Captura de Tela](./screenshot.png)  
 ## ✨ Funcionalidades
 
 - Previsão atual detalhada (temperatura, humidade, vento)
