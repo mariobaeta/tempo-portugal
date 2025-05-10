@@ -3,7 +3,15 @@
 
 Aplicação web para visualização da previsão do tempo em cidades portuguesas, com dados atualizados da API WeatherAPI.
 
-![Captura de Tela](./screenshot.png) *(adicione uma imagem do seu app em funcionamento)*
+<div align="center">
+  <a href="https://tempo-portugal.streamlit.app" target="_blank">
+    <img src="./assets/img/preview-tempo-portugal.png" 
+         alt="Interface do Tempo Portugal mostrando previsão em tempo real"
+         width="85%"
+         style="border-radius: 10px; border: 1px solid #e1e4e8; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  </a>
+  <p><em>Clique na imagem para testar a aplicação</em></p>
+</div>
 
 ## ✨ Funcionalidades
 
