@@ -1,0 +1,16 @@
+# Ambiente virtual
+.venv/
+
+# Secrets
+secrets.toml
+.env
+
+# Cache Python
+__pycache__/
+*.py[cod]
+
+# Streamlit
+.streamlit/
+
+# Sistema
+.DS_Store
